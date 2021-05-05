@@ -1,0 +1,10 @@
+/* min-width:992px */
+.header-img {
+    background-image: url('../img/scrabble_1920.jpg');
+}
+
+/* MAIN */
+.main-offer {
+    width: 50%;
+}
+  

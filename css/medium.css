@@ -1,0 +1,25 @@
+/* min-width:768px */
+
+.nav-desktop li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+/* HEADER */
+.header-text h1 {
+    font-size: 46px;
+}
+
+.header-text p {
+    font-size: 20px;
+}
+
+/* MAIN */
+.offer-text {
+    font-size: 18px;
+}
+
+section {
+    margin: 10px 0;
+}
