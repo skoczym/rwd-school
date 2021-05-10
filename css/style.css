@@ -32,7 +32,6 @@ body {
     display: none;
 }
 
-/* SP nr 95 max up to 400px; Szkoła Podstawowa nr 95 min 401px */
 @media (max-width: 400px) {
     .small {
         display: block;
@@ -130,11 +129,7 @@ body {
     .navbar-links ul li {
         text-align: center;
     }
-    /*
-    .navbar-links ul li a {
-        padding: .5rem 1rem;
-    }
-*/
+
     .navbar-links.active {
         display: flex;
     }
